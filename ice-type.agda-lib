@@ -1,0 +1,4 @@
+name: ice-type
+depend: standard-library-2.0
+include: ./src
+flags: --erased-cubical --allow-unsolved-metas -WnoUnsupportedIndexedMatch --no-import-sorts
